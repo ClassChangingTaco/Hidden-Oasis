@@ -1,0 +1,15 @@
+V 0.01a
+-first alpha build
+-includes everything up to before the temple
+
+V 0.02a
+-second alpha build
+-tried to fix spelling errors from V0.01a, may have added a few by mistake
+-added ability to cut off hands
+-added yes and no to the [Y/N]
+-added the "take" command to the help menu
+-made the path follow selector easier to manage
+-change discriptions on dagger and key
+-nerfed buff from overpowered, added a special surprise at the end of the game
+-added a new cheat
+-began work on the funfunfactory
