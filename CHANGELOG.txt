@@ -13,3 +13,5 @@ V 0.02a
 -nerfed buff from overpowered, added a special surprise at the end of the game
 -added a new cheat
 -began work on the funfunfactory
+
+##5/12/2025: This project is long abandoned. There will be no changes, as the source code has long since been lost##
